@@ -1,8 +1,11 @@
 /**
  * @name DisableBDThemes&Plugins
- * @author Profezzional
  * @description Toggles all active plugins and themes with a keyboard shortcut.
  * @version 0.0.1
+ * @author Profezzional
+ * @authorId 150015560288043009
+ * @website https://github.com/profezzional/BetterDiscordStuff
+ * @source https://github.com/profezzional/BetterDiscordStuff/blob/main/DisableBDThemes%26Plugins.plugin.js
  */
 
 const { Webpack, Webpack: { Filters } } = BdApi;
